@@ -20,7 +20,7 @@ jobs:
         node-version: '20'
 
     - name: Fetch and Parse PCGamingWiki Data
-      run: node tools/update-pcgw-games.js
+      run: node update-pcgw-games.js
 
     - name: Commit and Push Changes
       run: |

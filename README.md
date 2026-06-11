@@ -5,10 +5,10 @@
 
 Game Compatibility & Technology Detection Repository
 
-![DLSS](https://img.shields.io/badge/DLSS-Supported-green)
-![FSR](https://img.shields.io/badge/FSR-Supported-orange)
-![XeSS](https://img.shields.io/badge/XeSS-Supported-blue)
-![Updates](https://img.shields.io/badge/Updates-Live-success)
+<img src="https://img.shields.io/badge/DLSS-Supported-green" />
+<img src="https://img.shields.io/badge/FSR-Supported-orange" />
+<img src="https://img.shields.io/badge/XeSS-Supported-blue" />
+<img src="https://img.shields.io/badge/Updates-Live-success" />
 
 </div>
 
@@ -21,15 +21,6 @@ The database provides compatibility information for:
 - NVIDIA DLSS
 - AMD FSR
 - Intel XeSS
-
-## Purpose
-
-FPS Manager uses this repository to:
-
-- Detect supported games
-- Check available upscaling technologies
-- Deliver automatic compatibility updates
-- Maintain accurate game information
 
 ## Database Status
 

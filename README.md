@@ -33,5 +33,5 @@ The database provides compatibility information for:
 
 
 <p align="center">
-Powered by FPS Manager
+Powered by FPS Manager | xbar1s
 </p>

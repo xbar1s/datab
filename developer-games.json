@@ -1,0 +1,2768 @@
+{
+  "171": {
+    "compatibility": "green"
+  },
+  "007-first-light": {
+    "compatibility": "green"
+  },
+  "22-racing-series": {
+    "compatibility": "green"
+  },
+  "3dmark": {
+    "compatibility": "green"
+  },
+  "63-days": {
+    "compatibility": "yellow"
+  },
+  "7-days-to-die": {
+    "compatibility": "green"
+  },
+  "a-chinese-ghost-story": {
+    "compatibility": "yellow"
+  },
+  "a-plague-tale-requiem": {
+    "compatibility": "green"
+  },
+  "a-quiet-place-the-road-ahead": {
+    "compatibility": "green"
+  },
+  "achilles-legends-untold": {
+    "compatibility": "green"
+  },
+  "acres": {
+    "compatibility": "green"
+  },
+  "active-matter": {
+    "compatibility": "green"
+  },
+  "ad-infinitum": {
+    "compatibility": "green"
+  },
+  "aew-fight-forever": {
+    "compatibility": "green"
+  },
+  "ai-limit": {
+    "compatibility": "green"
+  },
+  "aion-2": {
+    "compatibility": "green"
+  },
+  "airportsim": {
+    "compatibility": "green"
+  },
+  "akimbot": {
+    "compatibility": "green"
+  },
+  "alan-wake-2": {
+    "exe_relative_path": "AlanWake2.exe",
+    "compatibility": "yellow"
+  },
+  "alan-wake-ii": {
+    "compatibility": "green"
+  },
+  "alan-wake-remastered": {
+    "compatibility": "green"
+  },
+  "alien-rogue-incursion-evolved-edition": {
+    "compatibility": "green"
+  },
+  "aliens-dark-descent": {
+    "compatibility": "yellow"
+  },
+  "alone-in-the-dark-2024": {
+    "compatibility": "green"
+  },
+  "ambulance-life-a-paramedic-simulator": {
+    "compatibility": "green"
+  },
+  "amid-evil": {
+    "compatibility": "green"
+  },
+  "ananta": {
+    "compatibility": "green"
+  },
+  "aniimo": {
+    "compatibility": "green"
+  },
+  "animalia-survival": {
+    "compatibility": "green"
+  },
+  "anno-117-pax-romana": {
+    "compatibility": "green"
+  },
+  "anno-1800": {
+    "compatibility": "yellow"
+  },
+  "anthem": {
+    "compatibility": "green"
+  },
+  "anvil": {
+    "compatibility": "yellow"
+  },
+  "arc-raiders": {
+    "compatibility": "green"
+  },
+  "arcadegeddon": {
+    "compatibility": "green"
+  },
+  "archeage": {
+    "compatibility": "yellow"
+  },
+  "archeage-war": {
+    "compatibility": "green"
+  },
+  "arena-breakout-infinite": {
+    "compatibility": "green"
+  },
+  "ark-survival-ascended": {
+    "compatibility": "green"
+  },
+  "arknights-endfield": {
+    "compatibility": "green"
+  },
+  "arma-reforger": {
+    "compatibility": "yellow"
+  },
+  "arons-adventure": {
+    "compatibility": "green"
+  },
+  "ascendant": {
+    "compatibility": "yellow"
+  },
+  "ashes-of-creation": {
+    "compatibility": "green"
+  },
+  "ashes-of-mankind-citadels": {
+    "compatibility": "yellow"
+  },
+  "assassins-creed-mirage": {
+    "compatibility": "green"
+  },
+  "assassins-creed-shadows": {
+    "compatibility": "green"
+  },
+  "assassins-creed-valhalla": {
+    "compatibility": "yellow"
+  },
+  "assetto-corsa": {
+    "compatibility": "yellow"
+  },
+  "assetto-corsa-competizione": {
+    "compatibility": "green"
+  },
+  "assetto-corsa-evo": {
+    "compatibility": "green"
+  },
+  "assetto-corsa-rally": {
+    "compatibility": "green"
+  },
+  "asterigos-curse-of-the-stars": {
+    "compatibility": "yellow"
+  },
+  "atelier-yumia-the-alchemist-of-memories-the-envisioned-land": {
+    "compatibility": "yellow"
+  },
+  "atlas-fallen": {
+    "compatibility": "yellow"
+  },
+  "atomic-heart": {
+    "compatibility": "green"
+  },
+  "automate-it-factory-puzzle": {
+    "compatibility": "yellow"
+  },
+  "automation-the-car-company-tycoon-game": {
+    "compatibility": "green"
+  },
+  "avatar-frontiers-of-pandora": {
+    "compatibility": "green"
+  },
+  "avowed": {
+    "compatibility": "green"
+  },
+  "back-4-blood": {
+    "compatibility": "green"
+  },
+  "backroom-company": {
+    "compatibility": "green"
+  },
+  "backrooms-escape-together": {
+    "compatibility": "green"
+  },
+  "baldurs-gate-iii": {
+    "compatibility": "green"
+  },
+  "ballads-of-hongye": {
+    "compatibility": "green"
+  },
+  "ballex-the-hanging-gardens": {
+    "compatibility": "yellow"
+  },
+  "banishers-ghosts-of-new-eden": {
+    "compatibility": "green"
+  },
+  "barkour": {
+    "compatibility": "green"
+  },
+  "batman-legacy-of-the-dark-knight": {
+    "compatibility": "green"
+  },
+  "batora-lost-haven": {
+    "compatibility": "green"
+  },
+  "battle-teams-2": {
+    "compatibility": "yellow"
+  },
+  "battlefield-2042": {
+    "compatibility": "green"
+  },
+  "battlefield-6": {
+    "compatibility": "green"
+  },
+  "battlefield-v": {
+    "compatibility": "green"
+  },
+  "bears-in-space": {
+    "compatibility": "green"
+  },
+  "beasts-of-bermuda": {
+    "compatibility": "yellow"
+  },
+  "bellwright": {
+    "compatibility": "green"
+  },
+  "beyond-hanwell": {
+    "compatibility": "green"
+  },
+  "black-desert-online": {
+    "compatibility": "yellow"
+  },
+  "black-myth-wukong": {
+    "compatibility": "green"
+  },
+  "black-one-blood-brothers": {
+    "compatibility": "green"
+  },
+  "black-state": {
+    "compatibility": "green"
+  },
+  "blacktail": {
+    "compatibility": "green"
+  },
+  "blades-of-fire": {
+    "compatibility": "green"
+  },
+  "blind-fate-edo-no-yami": {
+    "compatibility": "green"
+  },
+  "blood-bowl-3": {
+    "compatibility": "green"
+  },
+  "bodycam": {
+    "compatibility": "green"
+  },
+  "borderlands-4": {
+    "compatibility": "green"
+  },
+  "boti-byteland-overclocked": {
+    "compatibility": "green"
+  },
+  "bottle-pilgrim-redux": {
+    "compatibility": "green"
+  },
+  "boundary-2023": {
+    "compatibility": "green"
+  },
+  "brick-rigs": {
+    "compatibility": "green"
+  },
+  "brickadia": {
+    "compatibility": "green"
+  },
+  "bright-memory": {
+    "compatibility": "green"
+  },
+  "bright-memory-infinite": {
+    "compatibility": "green"
+  },
+  "broken-pieces": {
+    "compatibility": "green"
+  },
+  "brothers-a-tale-of-two-sons-remake": {
+    "compatibility": "green"
+  },
+  "bubsy-4d": {
+    "compatibility": "green"
+  },
+  "bulletstorm-vr": {
+    "compatibility": "green"
+  },
+  "bus-bound": {
+    "compatibility": "green"
+  },
+  "bus-simulator-21": {
+    "compatibility": "green"
+  },
+  "call-of-duty-black-ops-6": {
+    "compatibility": "green"
+  },
+  "call-of-duty-black-ops-cold-war": {
+    "compatibility": "green"
+  },
+  "call-of-duty-modern-warfare": {
+    "compatibility": "green"
+  },
+  "call-of-duty-modern-warfare-ii": {
+    "compatibility": "green"
+  },
+  "call-of-duty-modern-warfare-iii": {
+    "compatibility": "green"
+  },
+  "call-of-duty-vanguard": {
+    "compatibility": "green"
+  },
+  "call-of-duty-warzone": {
+    "compatibility": "green"
+  },
+  "capes": {
+    "compatibility": "green"
+  },
+  "captain-gazman-day-of-the-rage": {
+    "compatibility": "yellow"
+  },
+  "car-dealer-simulator": {
+    "compatibility": "green"
+  },
+  "caravan-sandwitch": {
+    "compatibility": "yellow"
+  },
+  "carmageddon-rogue-shift": {
+    "compatibility": "green"
+  },
+  "cash-cleaner-simulator": {
+    "compatibility": "yellow"
+  },
+  "century-age-of-ashes": {
+    "compatibility": "yellow"
+  },
+  "cepheus-protocol": {
+    "compatibility": "yellow"
+  },
+  "chased-by-darkness": {
+    "compatibility": "green"
+  },
+  "chernobylite": {
+    "compatibility": "green"
+  },
+  "chernobylite-2-exclusion-zone": {
+    "compatibility": "green"
+  },
+  "chionophile": {
+    "compatibility": "green"
+  },
+  "chip-n-clawz-vs-the-brainioids": {
+    "compatibility": "green"
+  },
+  "chivalry-2": {
+    "compatibility": "green"
+  },
+  "choochoo-charles": {
+    "compatibility": "green"
+  },
+  "chorus": {
+    "compatibility": "green"
+  },
+  "cinder-city": {
+    "compatibility": "green"
+  },
+  "cions-of-vega": {
+    "compatibility": "green"
+  },
+  "cities-skylines-ii": {
+    "compatibility": "green"
+  },
+  "city-of-springs": {
+    "compatibility": "green"
+  },
+  "civilization-vii": {
+    "compatibility": "yellow"
+  },
+  "clair-obscur-expedition-33": {
+    "compatibility": "green"
+  },
+  "clash-artifacts-of-chaos": {
+    "compatibility": "yellow"
+  },
+  "classified-france-44": {
+    "compatibility": "yellow"
+  },
+  "code-alkonost-awakening-of-evil": {
+    "compatibility": "green"
+  },
+  "code-vein-ii": {
+    "compatibility": "green"
+  },
+  "commandos-origins": {
+    "compatibility": "green"
+  },
+  "company-of-heroes-3": {
+    "compatibility": "yellow"
+  },
+  "conan-exiles": {
+    "compatibility": "green"
+  },
+  "concord": {
+    "compatibility": "green"
+  },
+  "confronted": {
+    "compatibility": "yellow"
+  },
+  "conquerors-blade": {
+    "compatibility": "green"
+  },
+  "control": {
+    "exe_relative_path": "Control_DX12.exe",
+    "compatibility": "yellow"
+  },
+  "control-resonant": {
+    "compatibility": "green"
+  },
+  "counterstrike-2": {
+    "compatibility": "yellow"
+  },
+  "creatures-of-ava": {
+    "compatibility": "green"
+  },
+  "crime-boss-rockay-city": {
+    "compatibility": "green"
+  },
+  "crimson-desert": {
+    "compatibility": "green"
+  },
+  "cronos-the-new-dawn": {
+    "compatibility": "green"
+  },
+  "crossout": {
+    "compatibility": "green"
+  },
+  "crsed-foad": {
+    "compatibility": "green"
+  },
+  "crysis-2-remastered": {
+    "compatibility": "green"
+  },
+  "crysis-3-remastered": {
+    "compatibility": "green"
+  },
+  "crysis-remastered": {
+    "compatibility": "green"
+  },
+  "cthulhu-the-cosmic-abyss": {
+    "compatibility": "green"
+  },
+  "cursed-halls": {
+    "compatibility": "green"
+  },
+  "cyberless-online": {
+    "compatibility": "green"
+  },
+  "cybermere": {
+    "compatibility": "green"
+  },
+  "cyberpunk-2077": {
+    "exe_relative_path": "bin/x64/Cyberpunk2077.exe",
+    "compatibility": "green"
+  },
+  "cyubevr": {
+    "compatibility": "green"
+  },
+  "dakar-desert-rally": {
+    "compatibility": "green"
+  },
+  "dark-and-darker": {
+    "compatibility": "green"
+  },
+  "dark-souls-ii": {
+    "compatibility": "green"
+  },
+  "darwinia": {
+    "compatibility": "yellow"
+  },
+  "davy-x-jones": {
+    "compatibility": "green"
+  },
+  "dawn-of-defiance": {
+    "compatibility": "green"
+  },
+  "daydream-forgotten-sorrow": {
+    "compatibility": "green"
+  },
+  "daymare-1994-sandcastle": {
+    "compatibility": "green"
+  },
+  "dead-as-disco": {
+    "compatibility": "green"
+  },
+  "dead-by-daylight": {
+    "compatibility": "yellow"
+  },
+  "dead-island-2": {
+    "compatibility": "yellow"
+  },
+  "dead-rising-deluxe-remaster": {
+    "compatibility": "green"
+  },
+  "dead-signal": {
+    "compatibility": "green"
+  },
+  "dead-space-2023": {
+    "compatibility": "green"
+  },
+  "dead-take": {
+    "compatibility": "green"
+  },
+  "deadlink": {
+    "compatibility": "green"
+  },
+  "deadlock": {
+    "compatibility": "green"
+  },
+  "deadzone-rogue": {
+    "compatibility": "green"
+  },
+  "death-relives": {
+    "compatibility": "green"
+  },
+  "death-stranding": {
+    "compatibility": "green"
+  },
+  "death-stranding-2-on-the-beach": {
+    "compatibility": "green"
+  },
+  "death-stranding-directors-cut": {
+    "compatibility": "green"
+  },
+  "deathbound": {
+    "compatibility": "green"
+  },
+  "deathground": {
+    "compatibility": "green"
+  },
+  "deathloop": {
+    "compatibility": "green"
+  },
+  "deathsprint-66": {
+    "compatibility": "green"
+  },
+  "deceit-2": {
+    "compatibility": "green"
+  },
+  "deceive-inc": {
+    "compatibility": "green"
+  },
+  "decimated": {
+    "compatibility": "yellow"
+  },
+  "deedlee-doo-carkour": {
+    "compatibility": "green"
+  },
+  "deep-rock-galactic": {
+    "compatibility": "green"
+  },
+  "deepstates-vr": {
+    "compatibility": "green"
+  },
+  "defect": {
+    "compatibility": "green"
+  },
+  "deliver-us-mars": {
+    "compatibility": "green"
+  },
+  "deliver-us-the-moon": {
+    "compatibility": "green"
+  },
+  "delta-force": {
+    "compatibility": "green"
+  },
+  "delta-force-hawk-ops": {
+    "compatibility": "green"
+  },
+  "demonologist": {
+    "compatibility": "green"
+  },
+  "desordre-a-puzzle-game-adventure": {
+    "compatibility": "green"
+  },
+  "destroy-all-humans-2-reprobed": {
+    "compatibility": "green"
+  },
+  "desynced-autonomous-colony-simulator": {
+    "compatibility": "green"
+  },
+  "diablo-4": {
+    "compatibility": "green"
+  },
+  "diablo-ii-resurrected": {
+    "compatibility": "green"
+  },
+  "die-by-the-blade": {
+    "compatibility": "green"
+  },
+  "directive-8020": {
+    "compatibility": "green"
+  },
+  "dlss2fsr": {
+    "compatibility": "yellow"
+  },
+  "do-something": {
+    "compatibility": "yellow"
+  },
+  "doll-imposter": {
+    "compatibility": "green"
+  },
+  "dolmen": {
+    "compatibility": "green"
+  },
+  "domino-simulator": {
+    "compatibility": "green"
+  },
+  "dont-scream": {
+    "compatibility": "green"
+  },
+  "doom-1993": {
+    "compatibility": "green"
+  },
+  "doom-2": {
+    "compatibility": "green"
+  },
+  "doom-eternal": {
+    "compatibility": "green"
+  },
+  "doom-the-dark-ages": {
+    "compatibility": "green"
+  },
+  "dota-2": {
+    "compatibility": "yellow"
+  },
+  "draconia": {
+    "compatibility": "green"
+  },
+  "dragon-age-the-veilguard": {
+    "compatibility": "green"
+  },
+  "dragonkin-the-banished": {
+    "compatibility": "green"
+  },
+  "dragons-dogma-ii": {
+    "compatibility": "green"
+  },
+  "dream-cycle": {
+    "compatibility": "green"
+  },
+  "duckside": {
+    "compatibility": "green"
+  },
+  "duet-night-abyss": {
+    "compatibility": "green"
+  },
+  "dune-awakening": {
+    "compatibility": "green"
+  },
+  "dungeon-stalkers": {
+    "compatibility": "green"
+  },
+  "dungeonborne": {
+    "compatibility": "green"
+  },
+  "dying-light-2": {
+    "compatibility": "green"
+  },
+  "dying-light-2-stay-human-reloaded-edition": {
+    "exe_relative_path": "ph/work/bin/x64/DyingLightGame_x64_rwdi.exe",
+    "compatibility": "green"
+  },
+  "dying-light-the-beast": {
+    "exe_relative_path": "ph_ft/work/bin/x64/DyingLightGame_TheBeast_x64_rwdi.exe",
+    "compatibility": "green"
+  },
+  "dynasty-warriors-origins": {
+    "compatibility": "green"
+  },
+  "dysterra": {
+    "compatibility": "green"
+  },
+  "ea-sports-wrc": {
+    "compatibility": "green"
+  },
+  "echo-point-nova": {
+    "compatibility": "green"
+  },
+  "edge-of-eternity": {
+    "compatibility": "green"
+  },
+  "edge-of-memories": {
+    "compatibility": "green"
+  },
+  "edge-of-the-abyss-awaken": {
+    "compatibility": "green"
+  },
+  "education": {
+    "compatibility": "green"
+  },
+  "elden-ring": {
+    "exe_relative_path": "eldenring.exe",
+    "compatibility": "yellow"
+  },
+  "element-td-2": {
+    "compatibility": "yellow"
+  },
+  "elementite": {
+    "compatibility": "green"
+  },
+  "elite-dangerous": {
+    "compatibility": "yellow"
+  },
+  "embers-adrift": {
+    "compatibility": "green"
+  },
+  "empire-of-the-ants": {
+    "compatibility": "green"
+  },
+  "empyreal": {
+    "compatibility": "green"
+  },
+  "endurance-motorsport-series": {
+    "compatibility": "green"
+  },
+  "enginecryengine": {
+    "compatibility": "green"
+  },
+  "enginefrostbite-3": {
+    "compatibility": "yellow"
+  },
+  "enginegodot": {
+    "compatibility": "green"
+  },
+  "engineunity": {
+    "compatibility": "green"
+  },
+  "engineunreal-engine-4": {
+    "compatibility": "green"
+  },
+  "enlisted": {
+    "compatibility": "green"
+  },
+  "enotria-the-last-song": {
+    "compatibility": "green"
+  },
+  "enshrouded": {
+    "compatibility": "green"
+  },
+  "ephesus": {
+    "compatibility": "green"
+  },
+  "epic-mickey-rebrushed": {
+    "compatibility": "yellow"
+  },
+  "ertugrul-of-ulukayin": {
+    "compatibility": "green"
+  },
+  "eruption": {
+    "compatibility": "yellow"
+  },
+  "escape-from-naraka": {
+    "compatibility": "green"
+  },
+  "escape-from-tarkov": {
+    "compatibility": "green"
+  },
+  "estencel": {
+    "compatibility": "green"
+  },
+  "eternal-strands": {
+    "compatibility": "green"
+  },
+  "europa-universalis-v": {
+    "compatibility": "green"
+  },
+  "eve-online": {
+    "compatibility": "green"
+  },
+  "eve-vanguard": {
+    "compatibility": "green"
+  },
+  "everspace-2": {
+    "compatibility": "green"
+  },
+  "evil-dead-the-game": {
+    "compatibility": "green"
+  },
+  "evil-genius-2-world-domination": {
+    "compatibility": "yellow"
+  },
+  "evil-reap": {
+    "compatibility": "yellow"
+  },
+  "evil-west": {
+    "compatibility": "green"
+  },
+  "evilvevil": {
+    "compatibility": "yellow"
+  },
+  "evotinction": {
+    "compatibility": "green"
+  },
+  "exfil": {
+    "compatibility": "green"
+  },
+  "exit-from": {
+    "compatibility": "green"
+  },
+  "exoprimal": {
+    "compatibility": "yellow"
+  },
+  "eyes-of-war": {
+    "compatibility": "green"
+  },
+  "f1-2020": {
+    "compatibility": "green"
+  },
+  "f1-2021": {
+    "compatibility": "green"
+  },
+  "f1-22": {
+    "compatibility": "green"
+  },
+  "f1-23": {
+    "compatibility": "green"
+  },
+  "f1-24": {
+    "compatibility": "green"
+  },
+  "f1-25": {
+    "compatibility": "green"
+  },
+  "f1-manager-2023": {
+    "compatibility": "green"
+  },
+  "f1-manager-2024": {
+    "compatibility": "green"
+  },
+  "fairy-tail-2": {
+    "compatibility": "yellow"
+  },
+  "fallout-4": {
+    "compatibility": "green"
+  },
+  "far-cry-6": {
+    "compatibility": "yellow"
+  },
+  "far-far-west": {
+    "compatibility": "green"
+  },
+  "faraday-protocol": {
+    "compatibility": "green"
+  },
+  "farlight-84": {
+    "compatibility": "green"
+  },
+  "farming-simulator-22": {
+    "compatibility": "green"
+  },
+  "farming-simulator-25": {
+    "compatibility": "green"
+  },
+  "fate-trigger": {
+    "compatibility": "green"
+  },
+  "fbc-firebreak": {
+    "compatibility": "green"
+  },
+  "fera-the-sundered-tribes": {
+    "compatibility": "green"
+  },
+  "ferd": {
+    "compatibility": "green"
+  },
+  "fight-or-flight": {
+    "compatibility": "green"
+  },
+  "final-fantasy-vii-rebirth": {
+    "compatibility": "green"
+  },
+  "final-fantasy-xiv": {
+    "compatibility": "green"
+  },
+  "final-fantasy-xv": {
+    "compatibility": "green"
+  },
+  "final-fantasy-xvi": {
+    "compatibility": "green"
+  },
+  "fira": {
+    "compatibility": "green"
+  },
+  "firefighting-simulator": {
+    "compatibility": "green"
+  },
+  "firmament": {
+    "compatibility": "green"
+  },
+  "first-dwarf": {
+    "compatibility": "green"
+  },
+  "fishing-north-atlantic": {
+    "compatibility": "green"
+  },
+  "fist-forged-in-shadow-torch": {
+    "compatibility": "green"
+  },
+  "five-nights-at-freddys-security-breach": {
+    "compatibility": "green"
+  },
+  "flaxengine": {
+    "compatibility": "green"
+  },
+  "flintlock-the-siege-of-dawn": {
+    "compatibility": "green"
+  },
+  "flipscapes": {
+    "compatibility": "green"
+  },
+  "for-honor": {
+    "compatibility": "green"
+  },
+  "forest-doesnt-care": {
+    "compatibility": "green"
+  },
+  "forever-skies": {
+    "compatibility": "green"
+  },
+  "forgive-me-father-2": {
+    "compatibility": "green"
+  },
+  "forgotten-skies": {
+    "compatibility": "green"
+  },
+  "forspoken": {
+    "compatibility": "green"
+  },
+  "fort-solis": {
+    "compatibility": "green"
+  },
+  "fortnite": {
+    "compatibility": "green"
+  },
+  "forza-horizon-5": {
+    "compatibility": "green"
+  },
+  "forza-horizon-6": {
+    "exe_relative_path": "ForzaHorizon6.exe",
+    "compatibility": "green"
+  },
+  "forza-motorsport": {
+    "compatibility": "green"
+  },
+  "fragmentary-order": {
+    "compatibility": "green"
+  },
+  "fragpunk": {
+    "compatibility": "green"
+  },
+  "frostpunk-2": {
+    "compatibility": "green"
+  },
+  "frozen-flame": {
+    "compatibility": "green"
+  },
+  "frozenheim": {
+    "compatibility": "green"
+  },
+  "funko-fusion": {
+    "compatibility": "green"
+  },
+  "game-of-thrones-kingsroad": {
+    "compatibility": "green"
+  },
+  "gamedec": {
+    "compatibility": "yellow"
+  },
+  "gaming-cafe-simulator": {
+    "compatibility": "yellow"
+  },
+  "gang-of-sherwood": {
+    "compatibility": "green"
+  },
+  "gears-of-war-reloaded": {
+    "compatibility": "green"
+  },
+  "genshin-impact": {
+    "compatibility": "yellow"
+  },
+  "ghost-of-tsushima": {
+    "exe_relative_path": "GhostOfTsushima.exe",
+    "compatibility": "green"
+  },
+  "ghost-of-tsushima-directors-cut": {
+    "compatibility": "green"
+  },
+  "ghostbusters-spirits-unleashed": {
+    "compatibility": "green"
+  },
+  "ghostrunner": {
+    "compatibility": "green"
+  },
+  "ghostrunner-2": {
+    "compatibility": "green"
+  },
+  "ghostwire-tokyo": {
+    "compatibility": "green"
+  },
+  "goals": {
+    "compatibility": "green"
+  },
+  "god-of-war": {
+    "compatibility": "green"
+  },
+  "god-of-war-ragnark": {
+    "compatibility": "green"
+  },
+  "godbreakers": {
+    "compatibility": "green"
+  },
+  "godfall": {
+    "compatibility": "yellow"
+  },
+  "golfing-in-aether": {
+    "compatibility": "green"
+  },
+  "gord": {
+    "compatibility": "green"
+  },
+  "gori-cuddly-carnage": {
+    "compatibility": "green"
+  },
+  "gotham-knights": {
+    "compatibility": "green"
+  },
+  "grand-emprise-time-travel-survival": {
+    "compatibility": "green"
+  },
+  "grand-theft-auto-the-trilogy-the-definitive-edition": {
+    "compatibility": "green"
+  },
+  "grand-theft-auto-v": {
+    "compatibility": "yellow"
+  },
+  "grand-theft-auto-v-enhanced": {
+    "exe_relative_path": "GTA5_Enhanced.exe",
+    "compatibility": "green"
+  },
+  "gray-zone-warfare": {
+    "compatibility": "green"
+  },
+  "greedfall-the-dying-world": {
+    "compatibility": "yellow"
+  },
+  "greedland": {
+    "compatibility": "green"
+  },
+  "grid-legends": {
+    "compatibility": "yellow"
+  },
+  "gripper": {
+    "compatibility": "green"
+  },
+  "ground-branch": {
+    "compatibility": "green"
+  },
+  "grounded": {
+    "compatibility": "yellow"
+  },
+  "gun-jam": {
+    "compatibility": "green"
+  },
+  "gungrave-gore": {
+    "compatibility": "green"
+  },
+  "half-sword": {
+    "compatibility": "green"
+  },
+  "halflife": {
+    "compatibility": "green"
+  },
+  "halflife-2": {
+    "compatibility": "yellow"
+  },
+  "halo-the-master-chief-collection": {
+    "compatibility": "yellow"
+  },
+  "harry-potter-quidditch-champions": {
+    "compatibility": "yellow"
+  },
+  "haste": {
+    "compatibility": "green"
+  },
+  "hawked": {
+    "compatibility": "yellow"
+  },
+  "hell-is-us": {
+    "compatibility": "green"
+  },
+  "hell-pie": {
+    "compatibility": "green"
+  },
+  "hellblade-senuas-sacrifice": {
+    "compatibility": "green"
+  },
+  "hellbreach-vegas": {
+    "compatibility": "green"
+  },
+  "hellbreak": {
+    "compatibility": "green"
+  },
+  "helldivers-2": {
+    "compatibility": "green"
+  },
+  "hellish-quart": {
+    "compatibility": "yellow"
+  },
+  "hello-neighbor-2": {
+    "compatibility": "green"
+  },
+  "hifi-rush": {
+    "compatibility": "green"
+  },
+  "high-on-life": {
+    "compatibility": "green"
+  },
+  "high-on-life-2": {
+    "compatibility": "green"
+  },
+  "highguard": {
+    "compatibility": "green"
+  },
+  "highline-volleyball-vr": {
+    "compatibility": "yellow"
+  },
+  "highrise-city": {
+    "compatibility": "green"
+  },
+  "hitman-world-of-assassination": {
+    "compatibility": "green"
+  },
+  "hogwarts-legacy": {
+    "exe_relative_path": "Phoenix/Binaries/Win64/HogwartsLegacy.exe",
+    "compatibility": "green"
+  },
+  "hoiwa-hub": {
+    "compatibility": "yellow"
+  },
+  "hold-your-own": {
+    "compatibility": "green"
+  },
+  "holomento": {
+    "compatibility": "green"
+  },
+  "homeworld-3": {
+    "compatibility": "green"
+  },
+  "honeycomb-the-world-beyond": {
+    "compatibility": "green"
+  },
+  "honkai-star-rail": {
+    "compatibility": "green"
+  },
+  "horizon-forbidden-west": {
+    "exe_relative_path": "HorizonForbiddenWest.exe",
+    "compatibility": "green"
+  },
+  "horizon-zero-dawn": {
+    "compatibility": "green"
+  },
+  "horizon-zero-dawn-remastered": {
+    "compatibility": "green"
+  },
+  "hot-wheels-unleashed": {
+    "compatibility": "green"
+  },
+  "hot-wheels-unleashed-2-turbocharged": {
+    "compatibility": "green"
+  },
+  "house-flipper-2": {
+    "compatibility": "green"
+  },
+  "hunt-showdown": {
+    "compatibility": "green"
+  },
+  "hydroneer": {
+    "compatibility": "green"
+  },
+  "hyper5": {
+    "compatibility": "yellow"
+  },
+  "icarus": {
+    "compatibility": "green"
+  },
+  "ikonei-island": {
+    "compatibility": "green"
+  },
+  "immortals-of-aveum": {
+    "compatibility": "green"
+  },
+  "incursion-red-river": {
+    "compatibility": "green"
+  },
+  "indiana-jones-and-the-great-circle": {
+    "compatibility": "green"
+  },
+  "indika": {
+    "compatibility": "green"
+  },
+  "industria": {
+    "compatibility": "green"
+  },
+  "industria-2": {
+    "compatibility": "green"
+  },
+  "industry-giant-40": {
+    "compatibility": "green"
+  },
+  "inferna": {
+    "compatibility": "yellow"
+  },
+  "infinity-nikki": {
+    "compatibility": "green"
+  },
+  "influx-redux": {
+    "compatibility": "green"
+  },
+  "into-the-radius-vr": {
+    "compatibility": "yellow"
+  },
+  "inzoi": {
+    "compatibility": "green"
+  },
+  "iracing": {
+    "compatibility": "yellow"
+  },
+  "iron-conflict": {
+    "compatibility": "green"
+  },
+  "islands-of-insight": {
+    "compatibility": "yellow"
+  },
+  "isonzo": {
+    "compatibility": "green"
+  },
+  "jagged-alliance-3": {
+    "compatibility": "green"
+  },
+  "jaws-of-extinction": {
+    "compatibility": "green"
+  },
+  "jected-rivals": {
+    "compatibility": "yellow"
+  },
+  "john-carpenters-toxic-commando": {
+    "compatibility": "green"
+  },
+  "jotunnslayer-hordes-of-hel": {
+    "compatibility": "green"
+  },
+  "judgment": {
+    "compatibility": "green"
+  },
+  "jump-space": {
+    "compatibility": "green"
+  },
+  "jurassic-world-evolution-2": {
+    "compatibility": "green"
+  },
+  "jurassic-world-evolution-3": {
+    "compatibility": "green"
+  },
+  "jusant": {
+    "compatibility": "green"
+  },
+  "justice-online": {
+    "compatibility": "green"
+  },
+  "jx3-online": {
+    "compatibility": "green"
+  },
+  "karma-the-dark-world": {
+    "compatibility": "green"
+  },
+  "kayak-vr-mirage": {
+    "compatibility": "green"
+  },
+  "keeper": {
+    "compatibility": "green"
+  },
+  "kena-bridge-of-spirits": {
+    "compatibility": "green"
+  },
+  "keo": {
+    "compatibility": "yellow"
+  },
+  "killer-klowns-from-outer-space-the-game": {
+    "compatibility": "green"
+  },
+  "killing-floor-3": {
+    "compatibility": "green"
+  },
+  "kingdom-come-deliverance-ii": {
+    "compatibility": "green"
+  },
+  "kingshunt": {
+    "compatibility": "yellow"
+  },
+  "kristala": {
+    "compatibility": "green"
+  },
+  "kunitsugami-path-of-the-goddess": {
+    "compatibility": "green"
+  },
+  "land-of-the-vikings": {
+    "compatibility": "green"
+  },
+  "last-train-home": {
+    "compatibility": "green"
+  },
+  "layers-of-fear-2023": {
+    "compatibility": "green"
+  },
+  "leap": {
+    "compatibility": "green"
+  },
+  "legacy-steel-sorcery": {
+    "compatibility": "green"
+  },
+  "legend-of-ymir": {
+    "compatibility": "green"
+  },
+  "legendary-tales": {
+    "compatibility": "green"
+  },
+  "lego-builders-journey": {
+    "compatibility": "green"
+  },
+  "lego-horizon-adventures": {
+    "compatibility": "green"
+  },
+  "lemnis-gate": {
+    "compatibility": "green"
+  },
+  "let-it-die-inferno": {
+    "compatibility": "green"
+  },
+  "level-zero-extraction": {
+    "compatibility": "green"
+  },
+  "lies-of-p": {
+    "compatibility": "green"
+  },
+  "lightyear-frontier": {
+    "compatibility": "green"
+  },
+  "like-a-dragon-gaiden-the-man-who-erased-his-name": {
+    "compatibility": "green"
+  },
+  "like-a-dragon-infinite-wealth": {
+    "compatibility": "green"
+  },
+  "like-a-dragon-ishin": {
+    "compatibility": "green"
+  },
+  "like-a-dragon-pirate-yakuza-in-hawaii": {
+    "compatibility": "green"
+  },
+  "liminalcore": {
+    "compatibility": "green"
+  },
+  "little-brother-jim": {
+    "compatibility": "green"
+  },
+  "little-nightmares-iii": {
+    "compatibility": "green"
+  },
+  "lodestar": {
+    "compatibility": "green"
+  },
+  "loopmancer": {
+    "compatibility": "green"
+  },
+  "lords-of-the-fallen-2023": {
+    "compatibility": "green"
+  },
+  "lost-ark": {
+    "compatibility": "green"
+  },
+  "lost-ember-rekindled-edition": {
+    "compatibility": "green"
+  },
+  "lost-islands": {
+    "compatibility": "yellow"
+  },
+  "lost-judgment": {
+    "compatibility": "green"
+  },
+  "lost-records-bloom-rage": {
+    "compatibility": "yellow"
+  },
+  "lost-rift": {
+    "compatibility": "green"
+  },
+  "lost-skies": {
+    "compatibility": "green"
+  },
+  "lost-soul-aside": {
+    "compatibility": "green"
+  },
+  "luna-abyss": {
+    "compatibility": "green"
+  },
+  "lunacy-saint-rhodes": {
+    "compatibility": "green"
+  },
+  "mafia-the-old-country": {
+    "compatibility": "green"
+  },
+  "magpie": {
+    "compatibility": "green"
+  },
+  "mandragora-whispers-of-the-witch-tree": {
+    "compatibility": "green"
+  },
+  "manor-lords": {
+    "compatibility": "green"
+  },
+  "marathon-2026": {
+    "compatibility": "green"
+  },
+  "martha-is-dead": {
+    "compatibility": "green"
+  },
+  "marvel-rivals": {
+    "compatibility": "green"
+  },
+  "marvels-avengers": {
+    "compatibility": "green"
+  },
+  "marvels-guardians-of-the-galaxy": {
+    "compatibility": "green"
+  },
+  "marvels-midnight-suns": {
+    "compatibility": "green"
+  },
+  "marvels-spider-man-remastered": {
+    "exe_relative_path": "Spider-Man.exe",
+    "compatibility": "green"
+  },
+  "marvels-spiderman-2": {
+    "compatibility": "green"
+  },
+  "marvels-spiderman-miles-morales": {
+    "compatibility": "green"
+  },
+  "marvels-spiderman-remastered": {
+    "compatibility": "green"
+  },
+  "mavrix-by-matt-jones": {
+    "compatibility": "green"
+  },
+  "mecha-break": {
+    "compatibility": "green"
+  },
+  "mechwarrior-5-clans": {
+    "compatibility": "green"
+  },
+  "mechwarrior-5-mercenaries": {
+    "compatibility": "green"
+  },
+  "meet-your-maker": {
+    "compatibility": "yellow"
+  },
+  "metro-exodus": {
+    "compatibility": "green"
+  },
+  "metro-exodus-enhanced-edition": {
+    "compatibility": "green"
+  },
+  "miasma-chronicles": {
+    "compatibility": "yellow"
+  },
+  "microsoft-flight-simulator-2020": {
+    "compatibility": "green"
+  },
+  "microsoft-flight-simulator-2024": {
+    "compatibility": "green"
+  },
+  "midnight-ghost-hunt": {
+    "compatibility": "green"
+  },
+  "mindseye": {
+    "compatibility": "green"
+  },
+  "minecraft-bedrock-edition": {
+    "compatibility": "green"
+  },
+  "mistfall-hunter": {
+    "compatibility": "green"
+  },
+  "mongil-star-dive": {
+    "compatibility": "green"
+  },
+  "monster-energy-supercross-25": {
+    "compatibility": "green"
+  },
+  "monster-energy-supercross-6": {
+    "compatibility": "green"
+  },
+  "monster-hunter-rise": {
+    "compatibility": "green"
+  },
+  "monster-hunter-stories-3-twisted-reflection": {
+    "compatibility": "green"
+  },
+  "monster-hunter-wilds": {
+    "compatibility": "green"
+  },
+  "monster-hunter-world": {
+    "compatibility": "green"
+  },
+  "mortal-kombat-1": {
+    "compatibility": "green"
+  },
+  "mortal-online-2": {
+    "compatibility": "green"
+  },
+  "mortal-rite": {
+    "compatibility": "green"
+  },
+  "mortal-shell": {
+    "compatibility": "green"
+  },
+  "mother-machine": {
+    "compatibility": "green"
+  },
+  "motogp-24": {
+    "compatibility": "green"
+  },
+  "motorcubs-rc": {
+    "compatibility": "yellow"
+  },
+  "mount-blade-ii-bannerlord": {
+    "compatibility": "green"
+  },
+  "myst-2021": {
+    "compatibility": "green"
+  },
+  "myth-of-empires": {
+    "compatibility": "green"
+  },
+  "naraka-bladepoint": {
+    "compatibility": "green"
+  },
+  "nba-2k25": {
+    "compatibility": "green"
+  },
+  "nba-2k26": {
+    "compatibility": "green"
+  },
+  "necromunda-hired-gun": {
+    "compatibility": "green"
+  },
+  "necrophosis": {
+    "compatibility": "green"
+  },
+  "need-for-speed-unbound": {
+    "compatibility": "green"
+  },
+  "nemesis-distress": {
+    "compatibility": "yellow"
+  },
+  "nephise-ascension": {
+    "compatibility": "green"
+  },
+  "neverness-to-everness": {
+    "compatibility": "green"
+  },
+  "new-arc-line": {
+    "compatibility": "green"
+  },
+  "new-home-medieval-village": {
+    "compatibility": "yellow"
+  },
+  "new-world": {
+    "compatibility": "green"
+  },
+  "night-of-the-dead": {
+    "compatibility": "green"
+  },
+  "nightingale": {
+    "compatibility": "green"
+  },
+  "nightmare-frontier": {
+    "compatibility": "green"
+  },
+  "nine-to-five": {
+    "compatibility": "green"
+  },
+  "ninja-gaiden-2-black": {
+    "compatibility": "green"
+  },
+  "ninja-gaiden-4": {
+    "compatibility": "green"
+  },
+  "nioh-2": {
+    "compatibility": "green"
+  },
+  "nioh-3": {
+    "compatibility": "green"
+  },
+  "no-mans-sky": {
+    "compatibility": "green"
+  },
+  "no-more-room-in-hell-2": {
+    "compatibility": "green"
+  },
+  "no-one-survived": {
+    "compatibility": "yellow"
+  },
+  "no-rest-for-the-wicked": {
+    "compatibility": "green"
+  },
+  "nobody-wants-to-die": {
+    "compatibility": "green"
+  },
+  "norse-oath-of-blood": {
+    "compatibility": "green"
+  },
+  "nuclear-nightmare": {
+    "exe_relative_path": "Nuclear Nightmare/NuclearNightmare/Binaries/Win64/NuclearNightmare-Win64-Shipping.exe",
+    "compatibility": "yellow"
+  },
+  "nvidia-omniverse": {
+    "compatibility": "green"
+  },
+  "observer-system-redux": {
+    "compatibility": "green"
+  },
+  "oceanhorn-2-knights-of-the-lost-realm": {
+    "compatibility": "yellow"
+  },
+  "oddsparks-an-automation-adventure": {
+    "compatibility": "green"
+  },
+  "off-the-grid": {
+    "compatibility": "green"
+  },
+  "once-human": {
+    "compatibility": "green"
+  },
+  "openvr": {
+    "compatibility": "green"
+  },
+  "orcs-must-die-deathtrap": {
+    "compatibility": "green"
+  },
+  "outcast-a-new-beginning": {
+    "compatibility": "green"
+  },
+  "outpost-infinity-siege": {
+    "compatibility": "green"
+  },
+  "outpost-zero": {
+    "compatibility": "green"
+  },
+  "outriders": {
+    "compatibility": "green"
+  },
+  "overwatch-2": {
+    "compatibility": "green"
+  },
+  "paladins-passage": {
+    "compatibility": "green"
+  },
+  "palworld": {
+    "compatibility": "green"
+  },
+  "panicore": {
+    "compatibility": "green"
+  },
+  "paradise-killer": {
+    "compatibility": "green"
+  },
+  "paragon-the-overprime": {
+    "compatibility": "yellow"
+  },
+  "park-beyond": {
+    "compatibility": "yellow"
+  },
+  "party-animals": {
+    "compatibility": "green"
+  },
+  "path-of-exile": {
+    "compatibility": "green"
+  },
+  "path-of-exile-ii": {
+    "compatibility": "green"
+  },
+  "pax-autocratica": {
+    "compatibility": "green"
+  },
+  "pax-dei": {
+    "compatibility": "green"
+  },
+  "pc-building-simulator-2": {
+    "compatibility": "green"
+  },
+  "perish": {
+    "compatibility": "green"
+  },
+  "pga-tour-2k23": {
+    "compatibility": "green"
+  },
+  "pga-tour-2k25": {
+    "compatibility": "green"
+  },
+  "phantasy-star-online-2-new-genesis": {
+    "compatibility": "green"
+  },
+  "phantom-blade-zero": {
+    "compatibility": "green"
+  },
+  "phasmophobia": {
+    "compatibility": "yellow"
+  },
+  "pinball-fx": {
+    "compatibility": "green"
+  },
+  "pinball-m": {
+    "compatibility": "green"
+  },
+  "pine-harbor": {
+    "compatibility": "green"
+  },
+  "pizza-bandit": {
+    "compatibility": "green"
+  },
+  "planet-coaster-2": {
+    "compatibility": "green"
+  },
+  "planetaries": {
+    "compatibility": "green"
+  },
+  "planetside-2": {
+    "compatibility": "green"
+  },
+  "pluviophile": {
+    "compatibility": "green"
+  },
+  "pools": {
+    "compatibility": "green"
+  },
+  "portal": {
+    "compatibility": "yellow"
+  },
+  "post-scriptum": {
+    "compatibility": "green"
+  },
+  "postal-4": {
+    "compatibility": "green"
+  },
+  "pragmata": {
+    "compatibility": "green"
+  },
+  "predator-hunting-grounds": {
+    "compatibility": "green"
+  },
+  "predecessor": {
+    "compatibility": "green"
+  },
+  "preserve": {
+    "compatibility": "yellow"
+  },
+  "prey-2017": {
+    "compatibility": "green"
+  },
+  "project-borealis-prologue": {
+    "compatibility": "green"
+  },
+  "project-motor-racing": {
+    "compatibility": "green"
+  },
+  "project-xandata": {
+    "compatibility": "yellow"
+  },
+  "prologue-go-wayback": {
+    "compatibility": "green"
+  },
+  "propnight": {
+    "compatibility": "green"
+  },
+  "proton": {
+    "compatibility": "green"
+  },
+  "providence": {
+    "compatibility": "yellow"
+  },
+  "pumpkin-jack": {
+    "compatibility": "green"
+  },
+  "qanga": {
+    "compatibility": "green"
+  },
+  "quake": {
+    "compatibility": "green"
+  },
+  "quake-ii-rtx": {
+    "compatibility": "yellow"
+  },
+  "quantum-sleeper": {
+    "compatibility": "yellow"
+  },
+  "qube-10th-anniversary": {
+    "compatibility": "green"
+  },
+  "qube-2": {
+    "compatibility": "green"
+  },
+  "rainbow-six-extraction": {
+    "compatibility": "green"
+  },
+  "raji-an-ancient-epic": {
+    "compatibility": "green"
+  },
+  "ranch-sim": {
+    "compatibility": "green"
+  },
+  "ratchet-clank-rift-apart": {
+    "compatibility": "green"
+  },
+  "ratten-reich": {
+    "compatibility": "green"
+  },
+  "ready-or-not": {
+    "compatibility": "green"
+  },
+  "reanimal": {
+    "compatibility": "green"
+  },
+  "red-dead-redemption": {
+    "compatibility": "green"
+  },
+  "red-dead-redemption-2": {
+    "exe_relative_path": "RDR2.exe",
+    "compatibility": "yellow"
+  },
+  "redacted": {
+    "compatibility": "yellow"
+  },
+  "redfall": {
+    "compatibility": "green"
+  },
+  "redout-2": {
+    "compatibility": "yellow"
+  },
+  "redout-space-assault": {
+    "compatibility": "green"
+  },
+  "reframework": {
+    "compatibility": "green"
+  },
+  "rem-survival": {
+    "compatibility": "green"
+  },
+  "rematch": {
+    "compatibility": "green"
+  },
+  "remnant-ii": {
+    "compatibility": "green"
+  },
+  "remnants": {
+    "compatibility": "green"
+  },
+  "rennsport": {
+    "compatibility": "green"
+  },
+  "reshade": {
+    "compatibility": "yellow"
+  },
+  "resident-evil-2-2019": {
+    "compatibility": "yellow"
+  },
+  "resident-evil-3-2020": {
+    "compatibility": "yellow"
+  },
+  "resident-evil-4-2023": {
+    "compatibility": "yellow"
+  },
+  "resident-evil-7": {
+    "compatibility": "yellow"
+  },
+  "resident-evil-requiem": {
+    "compatibility": "green"
+  },
+  "resident-evil-village": {
+    "compatibility": "yellow"
+  },
+  "retroarch": {
+    "compatibility": "yellow"
+  },
+  "return-to-castle-wolfenstein": {
+    "compatibility": "green"
+  },
+  "returnal": {
+    "compatibility": "green"
+  },
+  "reveil": {
+    "compatibility": "green"
+  },
+  "revenge-of-the-mage": {
+    "compatibility": "green"
+  },
+  "revenge-of-the-savage-planet": {
+    "compatibility": "green"
+  },
+  "rf-online-next": {
+    "compatibility": "green"
+  },
+  "ripout": {
+    "compatibility": "green"
+  },
+  "rise-of-the-ronin": {
+    "compatibility": "green"
+  },
+  "rise-of-the-tomb-raider": {
+    "compatibility": "green"
+  },
+  "riven-2024": {
+    "compatibility": "green"
+  },
+  "roadcraft": {
+    "compatibility": "green"
+  },
+  "robocop-rogue-city": {
+    "compatibility": "green"
+  },
+  "rpcs3": {
+    "compatibility": "yellow"
+  },
+  "rune-factory-guardians-of-azuma": {
+    "compatibility": "green"
+  },
+  "rust": {
+    "compatibility": "green"
+  },
+  "saboteur": {
+    "compatibility": "yellow"
+  },
+  "sackboy-a-big-adventure": {
+    "compatibility": "green"
+  },
+  "saints-row": {
+    "compatibility": "yellow"
+  },
+  "salvation-hours": {
+    "compatibility": "green"
+  },
+  "samson": {
+    "compatibility": "green"
+  },
+  "sands-of-aura": {
+    "compatibility": "green"
+  },
+  "satisfactory": {
+    "compatibility": "green"
+  },
+  "scathe": {
+    "compatibility": "green"
+  },
+  "scavengers": {
+    "compatibility": "green"
+  },
+  "scorn": {
+    "compatibility": "yellow"
+  },
+  "scp-pandemic": {
+    "compatibility": "green"
+  },
+  "scp-secret-files": {
+    "compatibility": "green"
+  },
+  "screamer": {
+    "compatibility": "green"
+  },
+  "scum": {
+    "compatibility": "green"
+  },
+  "sea-of-remnants": {
+    "compatibility": "green"
+  },
+  "season": {
+    "compatibility": "green"
+  },
+  "second-extinction": {
+    "compatibility": "yellow"
+  },
+  "sengoku-dynasty": {
+    "compatibility": "green"
+  },
+  "senuas-saga-hellblade-ii": {
+    "compatibility": "green"
+  },
+  "serious-sam-the-first-encounter": {
+    "compatibility": "green"
+  },
+  "serum": {
+    "compatibility": "green"
+  },
+  "session": {
+    "compatibility": "yellow"
+  },
+  "severed-steel": {
+    "compatibility": "green"
+  },
+  "shadow-of-the-tomb-raider": {
+    "compatibility": "green"
+  },
+  "shadow-warrior-3": {
+    "compatibility": "green"
+  },
+  "shadows-of-doubt": {
+    "compatibility": "green"
+  },
+  "sherlock-holmes-chapter-one": {
+    "compatibility": "yellow"
+  },
+  "shibainu-vr-katana-simulator": {
+    "compatibility": "yellow"
+  },
+  "ships-at-sea": {
+    "compatibility": "green"
+  },
+  "showgunners": {
+    "compatibility": "green"
+  },
+  "shredders": {
+    "compatibility": "yellow"
+  },
+  "sifu": {
+    "compatibility": "green"
+  },
+  "silent-hill-2": {
+    "compatibility": "green"
+  },
+  "silent-hill-f": {
+    "compatibility": "green"
+  },
+  "silent-rain": {
+    "compatibility": "green"
+  },
+  "simulakros": {
+    "compatibility": "green"
+  },
+  "six-days-in-fallujah": {
+    "compatibility": "green"
+  },
+  "skate": {
+    "compatibility": "green"
+  },
+  "skull-and-bones": {
+    "compatibility": "green"
+  },
+  "skye-the-misty-isle": {
+    "compatibility": "green"
+  },
+  "slavicpunk": {
+    "compatibility": "green"
+  },
+  "slender-the-arrival": {
+    "compatibility": "green"
+  },
+  "slitterhead": {
+    "compatibility": "yellow"
+  },
+  "smalland": {
+    "compatibility": "green"
+  },
+  "smite-2": {
+    "compatibility": "green"
+  },
+  "sniper-elite-5": {
+    "compatibility": "yellow"
+  },
+  "sons-of-the-forest": {
+    "compatibility": "green"
+  },
+  "soulframe": {
+    "compatibility": "green"
+  },
+  "soulmask": {
+    "compatibility": "green"
+  },
+  "soulslinger-envoy-of-death": {
+    "compatibility": "green"
+  },
+  "soulstice": {
+    "compatibility": "green"
+  },
+  "south-of-midnight": {
+    "compatibility": "green"
+  },
+  "space-engineers-2": {
+    "compatibility": "yellow"
+  },
+  "space-survivors-i-the-reckoning": {
+    "compatibility": "yellow"
+  },
+  "spaceship-visual-effect-graph-demo": {
+    "compatibility": "green"
+  },
+  "spectre-divide": {
+    "compatibility": "green"
+  },
+  "spine": {
+    "compatibility": "green"
+  },
+  "spirit-of-the-north-2": {
+    "compatibility": "green"
+  },
+  "spirit-x-strike": {
+    "compatibility": "yellow"
+  },
+  "split-fiction": {
+    "compatibility": "yellow"
+  },
+  "splitgate-2": {
+    "compatibility": "green"
+  },
+  "spongebob-squarepants-titans-of-the-tide": {
+    "compatibility": "green"
+  },
+  "sprawl": {
+    "compatibility": "green"
+  },
+  "squad": {
+    "compatibility": "green"
+  },
+  "stalker-2-heart-of-chornobyl": {
+    "exe_relative_path": "Stalker2/Binaries/Win64/Stalker2-Win64-Shipping.exe",
+    "compatibility": "green"
+  },
+  "stalker-call-of-prypiat-enhanced-edition": {
+    "compatibility": "green"
+  },
+  "stalker-clear-sky-enhanced-edition": {
+    "compatibility": "green"
+  },
+  "stalker-shadow-of-chornobyl-enhanced-edition": {
+    "compatibility": "green"
+  },
+  "star-citizen": {
+    "compatibility": "green"
+  },
+  "star-overdrive": {
+    "compatibility": "green"
+  },
+  "star-trek-voyager-across-the-unknown": {
+    "compatibility": "green"
+  },
+  "star-wars-galactic-racer": {
+    "compatibility": "green"
+  },
+  "star-wars-jedi-survivor": {
+    "exe_relative_path": "SwGame/Binaries/Win64/JediSurvivor.exe",
+    "compatibility": "green"
+  },
+  "star-wars-outlaws": {
+    "compatibility": "green"
+  },
+  "starfield": {
+    "compatibility": "green"
+  },
+  "starminer": {
+    "compatibility": "green"
+  },
+  "starrupture": {
+    "compatibility": "green"
+  },
+  "starship-troopers-extermination": {
+    "compatibility": "green"
+  },
+  "starsiege-deadzone": {
+    "compatibility": "green"
+  },
+  "steel-seed": {
+    "compatibility": "green"
+  },
+  "steelrising": {
+    "compatibility": "green"
+  },
+  "stellar-blade": {
+    "compatibility": "green"
+  },
+  "still-wakes-the-deep": {
+    "compatibility": "green"
+  },
+  "storage-hunter-simulator": {
+    "compatibility": "green"
+  },
+  "stormgate": {
+    "compatibility": "green"
+  },
+  "storror-parkour-pro": {
+    "compatibility": "green"
+  },
+  "stranded-alien-dawn": {
+    "compatibility": "green"
+  },
+  "stranger-of-paradise-final-fantasy-origin": {
+    "compatibility": "green"
+  },
+  "stray-blade": {
+    "compatibility": "yellow"
+  },
+  "strayed-lights": {
+    "compatibility": "green"
+  },
+  "styx-blades-of-greed": {
+    "compatibility": "green"
+  },
+  "subliminal": {
+    "compatibility": "green"
+  },
+  "subnautica-2": {
+    "compatibility": "green"
+  },
+  "sudden-strike-5": {
+    "compatibility": "green"
+  },
+  "suicide-squad-kill-the-justice-league": {
+    "compatibility": "green"
+  },
+  "super-people": {
+    "compatibility": "green"
+  },
+  "supermoves": {
+    "compatibility": "green"
+  },
+  "supraland": {
+    "compatibility": "green"
+  },
+  "supraland-six-inches-under": {
+    "compatibility": "green"
+  },
+  "supraworld": {
+    "compatibility": "green"
+  },
+  "surroundead": {
+    "compatibility": "green"
+  },
+  "surv1v3": {
+    "compatibility": "green"
+  },
+  "sword-and-fairy-7": {
+    "compatibility": "green"
+  },
+  "sword-of-justice": {
+    "compatibility": "green"
+  },
+  "swords-of-legends-online": {
+    "compatibility": "green"
+  },
+  "swordsman-remake": {
+    "compatibility": "yellow"
+  },
+  "synced": {
+    "compatibility": "green"
+  },
+  "system-shock-2023": {
+    "compatibility": "yellow"
+  },
+  "tactical-vengence-play-the-games": {
+    "compatibility": "green"
+  },
+  "tainted-grail-the-fall-of-avalon": {
+    "compatibility": "green"
+  },
+  "tales-of-kenzera-zau": {
+    "compatibility": "green"
+  },
+  "tankhead": {
+    "compatibility": "green"
+  },
+  "tchia": {
+    "compatibility": "green"
+  },
+  "tekken-8": {
+    "compatibility": "green"
+  },
+  "tellusim-upscaler": {
+    "compatibility": "green"
+  },
+  "tempest-rising": {
+    "compatibility": "green"
+  },
+  "terminator-resistance": {
+    "compatibility": "yellow"
+  },
+  "test-drive-unlimited-solar-crown": {
+    "compatibility": "green"
+  },
+  "testament-the-order-of-high-human": {
+    "compatibility": "green"
+  },
+  "the-alters": {
+    "compatibility": "green"
+  },
+  "the-anacrusis": {
+    "compatibility": "green"
+  },
+  "the-ascent": {
+    "compatibility": "green"
+  },
+  "the-axis-unseen": {
+    "compatibility": "green"
+  },
+  "the-black-pool": {
+    "compatibility": "green"
+  },
+  "the-bridge-curse-road-to-salvation": {
+    "compatibility": "yellow"
+  },
+  "the-callisto-protocol": {
+    "compatibility": "yellow"
+  },
+  "the-casting-of-frank-stone": {
+    "compatibility": "green"
+  },
+  "the-chant": {
+    "compatibility": "green"
+  },
+  "the-cycle-frontier": {
+    "compatibility": "green"
+  },
+  "the-day-before": {
+    "compatibility": "green"
+  },
+  "the-dead-tree-of-ranchiuna": {
+    "compatibility": "green"
+  },
+  "the-devourer-hunted-souls": {
+    "compatibility": "green"
+  },
+  "the-diofield-chronicle": {
+    "compatibility": "yellow"
+  },
+  "the-elder-scrolls-iv-oblivion-remastered": {
+    "compatibility": "green"
+  },
+  "the-elder-scrolls-online": {
+    "compatibility": "green"
+  },
+  "the-elder-scrolls-v-skyrim-special-edition": {
+    "compatibility": "green"
+  },
+  "the-elder-scrolls-v-skyrim-vr": {
+    "compatibility": "green"
+  },
+  "the-eternal-cylinder": {
+    "compatibility": "yellow"
+  },
+  "the-fabled-woods": {
+    "compatibility": "green"
+  },
+  "the-finals": {
+    "compatibility": "green"
+  },
+  "the-first-berserker-khazan": {
+    "compatibility": "green"
+  },
+  "the-first-descendant": {
+    "compatibility": "green"
+  },
+  "the-forever-winter": {
+    "compatibility": "green"
+  },
+  "the-gold-river-project": {
+    "compatibility": "green"
+  },
+  "the-inquisitor-2024": {
+    "compatibility": "green"
+  },
+  "the-invincible": {
+    "compatibility": "green"
+  },
+  "the-lamplighters-league": {
+    "compatibility": "green"
+  },
+  "the-last-caretaker": {
+    "compatibility": "green"
+  },
+  "the-last-of-us-part-2-remastered": {
+    "compatibility": "green"
+  },
+  "the-last-of-us-part-i": {
+    "exe_relative_path": "tlou-i.exe",
+    "compatibility": "green"
+  },
+  "the-last-oricru": {
+    "compatibility": "green"
+  },
+  "the-legend-of-heroes-trails-through-daybreak": {
+    "compatibility": "green"
+  },
+  "the-legend-of-heroes-trails-through-daybreak-ii": {
+    "compatibility": "green"
+  },
+  "the-lord-of-the-rings-gollum": {
+    "compatibility": "green"
+  },
+  "the-lord-of-the-rings-return-to-moria": {
+    "compatibility": "green"
+  },
+  "the-medium": {
+    "compatibility": "green"
+  },
+  "the-midnight-walk": {
+    "compatibility": "green"
+  },
+  "the-moonlight-blade": {
+    "compatibility": "green"
+  },
+  "the-mound-omen-of-cthulhu": {
+    "compatibility": "green"
+  },
+  "the-nightmare-catcher": {
+    "compatibility": "yellow"
+  },
+  "the-orville-interactive-fan-experience": {
+    "compatibility": "green"
+  },
+  "the-outer-worlds-2": {
+    "compatibility": "green"
+  },
+  "the-outer-worlds-spacers-choice-edition": {
+    "compatibility": "yellow"
+  },
+  "the-outlast-trials": {
+    "compatibility": "green"
+  },
+  "the-persistence": {
+    "compatibility": "green"
+  },
+  "the-riftbreaker": {
+    "compatibility": "yellow"
+  },
+  "the-sinking-city-remastered": {
+    "compatibility": "green"
+  },
+  "the-swordsman-x-survival": {
+    "compatibility": "yellow"
+  },
+  "the-talos-principle-2": {
+    "compatibility": "green"
+  },
+  "the-talos-principle-reawakened": {
+    "compatibility": "green"
+  },
+  "the-texas-chain-saw-massacre": {
+    "compatibility": "green"
+  },
+  "the-thaumaturge": {
+    "compatibility": "green"
+  },
+  "the-vernyhorn": {
+    "compatibility": "green"
+  },
+  "the-witcher-3": {
+    "compatibility": "green"
+  },
+  "the-witcher-3-wild-hunt": {
+    "exe_relative_path": "bin/x64_dx12/witcher3.exe",
+    "compatibility": "yellow"
+  },
+  "thehunter-call-of-the-wild": {
+    "compatibility": "yellow"
+  },
+  "there-exists-nobody": {
+    "compatibility": "green"
+  },
+  "there-wont-be-light": {
+    "compatibility": "yellow"
+  },
+  "throne-and-liberty": {
+    "compatibility": "green"
+  },
+  "thymesia": {
+    "compatibility": "yellow"
+  },
+  "tides-of-annihilation": {
+    "compatibility": "green"
+  },
+  "time-breaker": {
+    "compatibility": "green"
+  },
+  "tiny-tinas-wonderlands": {
+    "compatibility": "yellow"
+  },
+  "titan-quest-2": {
+    "compatibility": "green"
+  },
+  "titan-station": {
+    "compatibility": "green"
+  },
+  "togges": {
+    "compatibility": "green"
+  },
+  "tokyo-xtreme-racer": {
+    "compatibility": "green"
+  },
+  "tom-clancys-rainbow-six-siege": {
+    "compatibility": "green"
+  },
+  "torque-drift-2": {
+    "compatibility": "green"
+  },
+  "tower-of-fantasy": {
+    "compatibility": "green"
+  },
+  "towers-of-aghasba": {
+    "compatibility": "green"
+  },
+  "trail-out": {
+    "compatibility": "green"
+  },
+  "trepang2": {
+    "compatibility": "green"
+  },
+  "tribes-3-rivals": {
+    "compatibility": "green"
+  },
+  "turbo-sloths": {
+    "compatibility": "green"
+  },
+  "uboat": {
+    "compatibility": "green"
+  },
+  "unawake": {
+    "compatibility": "green"
+  },
+  "uncharted-legacy-of-thieves-collection": {
+    "compatibility": "green"
+  },
+  "under-the-waves": {
+    "compatibility": "yellow"
+  },
+  "undying": {
+    "compatibility": "yellow"
+  },
+  "unigine-sdk-2": {
+    "compatibility": "green"
+  },
+  "united-1944": {
+    "compatibility": "green"
+  },
+  "unknown-9-awakening": {
+    "compatibility": "yellow"
+  },
+  "until-dawn": {
+    "compatibility": "green"
+  },
+  "v-rising": {
+    "compatibility": "yellow"
+  },
+  "vail-vr": {
+    "compatibility": "yellow"
+  },
+  "valhall": {
+    "compatibility": "green"
+  },
+  "valkyrie-elysium": {
+    "compatibility": "green"
+  },
+  "valor-mortis": {
+    "compatibility": "green"
+  },
+  "vampire-the-masquerade-bloodhunt": {
+    "compatibility": "green"
+  },
+  "vampire-the-masquerade-bloodlines-2": {
+    "compatibility": "green"
+  },
+  "vampire-the-masquerade-swansong": {
+    "compatibility": "green"
+  },
+  "vampires-bloodlord-rising": {
+    "compatibility": "green"
+  },
+  "vector-strike": {
+    "compatibility": "green"
+  },
+  "viking-rage": {
+    "compatibility": "green"
+  },
+  "virtua-fighter-5-revo": {
+    "compatibility": "green"
+  },
+  "visions-of-mana": {
+    "compatibility": "yellow"
+  },
+  "vladik-brutal": {
+    "compatibility": "green"
+  },
+  "void-crew": {
+    "compatibility": "green"
+  },
+  "voidtrain": {
+    "compatibility": "green"
+  },
+  "wanted-dead": {
+    "compatibility": "green"
+  },
+  "war-mongrels": {
+    "compatibility": "yellow"
+  },
+  "war-robots-frontiers": {
+    "compatibility": "green"
+  },
+  "war-thunder": {
+    "compatibility": "green"
+  },
+  "wardogs": {
+    "compatibility": "green"
+  },
+  "warframe": {
+    "compatibility": "green"
+  },
+  "warhammer-40000-darktide": {
+    "compatibility": "green"
+  },
+  "warhammer-40000-space-marine-ii": {
+    "compatibility": "green"
+  },
+  "warhammer-40000-speed-freeks": {
+    "compatibility": "green"
+  },
+  "warhammer-age-of-sigmar-realms-of-ruin": {
+    "compatibility": "green"
+  },
+  "warhammer-age-of-sigmar-tempestfall": {
+    "compatibility": "green"
+  },
+  "warhammer-vermintide-2": {
+    "compatibility": "green"
+  },
+  "warhaven": {
+    "compatibility": "green"
+  },
+  "warstride-challenges": {
+    "compatibility": "green"
+  },
+  "watch-dogs-legion": {
+    "compatibility": "green"
+  },
+  "wayfinder": {
+    "compatibility": "green"
+  },
+  "welcome-to-paradize": {
+    "compatibility": "green"
+  },
+  "where-winds-meet": {
+    "compatibility": "yellow"
+  },
+  "whiskerwood": {
+    "compatibility": "green"
+  },
+  "who-is-abby": {
+    "compatibility": "green"
+  },
+  "wild-assault": {
+    "compatibility": "green"
+  },
+  "wild-hearts": {
+    "compatibility": "green"
+  },
+  "wild-west-dynasty": {
+    "compatibility": "green"
+  },
+  "wildgate": {
+    "compatibility": "green"
+  },
+  "will-to-live-online": {
+    "compatibility": "yellow"
+  },
+  "windrose": {
+    "compatibility": "green"
+  },
+  "witchfire": {
+    "compatibility": "green"
+  },
+  "wo-long-fallen-dynasty": {
+    "compatibility": "green"
+  },
+  "wolfenstein-youngblood": {
+    "compatibility": "green"
+  },
+  "workshop-simulator": {
+    "compatibility": "green"
+  },
+  "world-of-tanks-heat": {
+    "compatibility": "green"
+  },
+  "world-of-warcraft": {
+    "compatibility": "yellow"
+  },
+  "world-of-warships": {
+    "compatibility": "yellow"
+  },
+  "world-war-z": {
+    "compatibility": "green"
+  },
+  "wrc-generations": {
+    "compatibility": "green"
+  },
+  "wreckfest-2": {
+    "compatibility": "green"
+  },
+  "wreckreation": {
+    "compatibility": "green"
+  },
+  "wrench": {
+    "compatibility": "green"
+  },
+  "wuchang-fallen-feathers": {
+    "compatibility": "green"
+  },
+  "wuthering-waves": {
+    "compatibility": "green"
+  },
+  "wwe-2k23": {
+    "compatibility": "yellow"
+  },
+  "x4-foundations": {
+    "compatibility": "green"
+  },
+  "xenia-emulator": {
+    "compatibility": "green"
+  },
+  "xuanyuan-sword-vii": {
+    "compatibility": "green"
+  },
+  "yakuza-kiwami-2-2025": {
+    "compatibility": "green"
+  },
+  "yakuza-kiwami-3-dark-ties": {
+    "compatibility": "green"
+  },
+  "yuzu": {
+    "compatibility": "yellow"
+  },
+  "zoochosis": {
+    "compatibility": "green"
+  }
+}

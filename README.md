@@ -1,4 +1,4 @@
-```md
+
 <div align="center">
 
 # 🎮 FPS Manager Database
@@ -40,7 +40,6 @@ FPS Manager uses this repository to:
 | XeSS Games | ✅ Active |
 | Auto Updates | ✅ Enabled |
 
----
 
 <p align="center">
 Powered by FPS Manager

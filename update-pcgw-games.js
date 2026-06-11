@@ -2,7 +2,7 @@ const https = require('https');
 const fs = require('fs');
 const path = require('path');
 
-const DEV_GAMES_PATH = path.join(__dirname, '..', 'developer-games.json');
+const DEV_GAMES_PATH = path.join(__dirname, 'developer-games.json');
 
 function getJson(url) {
     return new Promise((resolve, reject) => {

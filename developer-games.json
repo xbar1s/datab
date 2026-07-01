@@ -1345,6 +1345,9 @@
   "legendary-tales": {
     "compatibility": "green"
   },
+  "lego-batman-legacy-of-the-dark-knight": {
+    "compatibility": "green"
+  },
   "lego-builders-journey": {
     "compatibility": "green"
   },
@@ -2408,6 +2411,9 @@
   },
   "the-last-of-us-part-i": {
     "exe_relative_path": "tlou-i.exe",
+    "compatibility": "green"
+  },
+  "the-last-of-us-part-ii-remastered": {
     "compatibility": "green"
   },
   "the-last-oricru": {

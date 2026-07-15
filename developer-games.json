@@ -569,6 +569,9 @@
   "deep-rock-galactic": {
     "compatibility": "green"
   },
+  "deep-rock-galactic-rogue-core": {
+    "compatibility": "green"
+  },
   "deepstates-vr": {
     "compatibility": "green"
   },
@@ -728,6 +731,9 @@
   "empire-of-the-ants": {
     "compatibility": "green"
   },
+  "empulse": {
+    "compatibility": "green"
+  },
   "empyreal": {
     "compatibility": "green"
   },
@@ -873,6 +879,9 @@
     "compatibility": "green"
   },
   "fate-trigger": {
+    "compatibility": "green"
+  },
+  "fatekeeper": {
     "compatibility": "green"
   },
   "fbc-firebreak": {
@@ -1043,6 +1052,9 @@
     "compatibility": "green"
   },
   "gotham-knights": {
+    "compatibility": "green"
+  },
+  "gothic-1-remake": {
     "compatibility": "green"
   },
   "grand-emprise-time-travel-survival": {
@@ -1574,6 +1586,9 @@
   "nba-2k26": {
     "compatibility": "green"
   },
+  "nba-the-run": {
+    "compatibility": "green"
+  },
   "necromunda-hired-gun": {
     "compatibility": "green"
   },
@@ -1663,6 +1678,9 @@
     "compatibility": "green"
   },
   "once-human": {
+    "compatibility": "green"
+  },
+  "onimusha-way-of-the-sword": {
     "compatibility": "green"
   },
   "openvr": {
@@ -1852,6 +1870,9 @@
     "compatibility": "green"
   },
   "reanimal": {
+    "compatibility": "green"
+  },
+  "reaper-actual": {
     "compatibility": "green"
   },
   "red-dead-redemption": {
@@ -2510,6 +2531,9 @@
   "tides-of-annihilation": {
     "compatibility": "green"
   },
+  "tides-of-tomorrow": {
+    "compatibility": "green"
+  },
   "time-breaker": {
     "compatibility": "green"
   },
@@ -2767,6 +2791,9 @@
   },
   "yuzu": {
     "compatibility": "yellow"
+  },
+  "zenless-zone-zero": {
+    "compatibility": "green"
   },
   "zoochosis": {
     "compatibility": "green"

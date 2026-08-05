@@ -135,6 +135,9 @@
   "ashes-of-mankind-citadels": {
     "compatibility": "yellow"
   },
+  "assassins-creed-black-flag-resynced": {
+    "compatibility": "green"
+  },
   "assassins-creed-mirage": {
     "compatibility": "green"
   },
@@ -425,6 +428,9 @@
     "compatibility": "yellow"
   },
   "control-resonant": {
+    "compatibility": "green"
+  },
+  "corsair-cove": {
     "compatibility": "green"
   },
   "counterstrike-2": {
@@ -1002,6 +1008,9 @@
   "gang-of-sherwood": {
     "compatibility": "green"
   },
+  "gears-of-war-eday": {
+    "compatibility": "green"
+  },
   "gears-of-war-reloaded": {
     "compatibility": "green"
   },
@@ -1105,6 +1114,9 @@
   },
   "halflife-2": {
     "compatibility": "yellow"
+  },
+  "halo-campaign-evolved": {
+    "compatibility": "green"
   },
   "halo-the-master-chief-collection": {
     "compatibility": "yellow"
@@ -1523,6 +1535,9 @@
   "minecraft-bedrock-edition": {
     "compatibility": "green"
   },
+  "mirrors-edge": {
+    "compatibility": "green"
+  },
   "mistfall-hunter": {
     "compatibility": "green"
   },
@@ -1557,6 +1572,9 @@
     "compatibility": "green"
   },
   "mortal-shell": {
+    "compatibility": "green"
+  },
+  "mortal-shell-ii": {
     "compatibility": "green"
   },
   "mother-machine": {
@@ -2484,6 +2502,9 @@
   },
   "the-riftbreaker": {
     "compatibility": "yellow"
+  },
+  "the-sinking-city-2": {
+    "compatibility": "green"
   },
   "the-sinking-city-remastered": {
     "compatibility": "green"
